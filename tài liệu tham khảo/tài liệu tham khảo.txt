@@ -1,0 +1,2 @@
+1. Phân tích làm mịn dữ liệu bằng Gaussian 
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
